@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rajiv</h1>
-<h3 align="center">A Passionate Fullstack Developer from India</h3>
+<h3 align="center">I am Rajiv from India. Fullstack Developer .
+
+I'm passionate about Building useful Internet products and fulfilling my love and passion for coding by building useful Internet products, Web apps, and Websites.
+
+In my free time, I enjoy playing badminton with my friends, Exercising regularly, and eating very healthy homemade food. I am a simple man living a simple and happy life.
+
+Experience with HTML5, CSS3, Javascript, React JS, Node.js, Tailwind, and Bootstrap. Feel free to connect or message me if you want to collaborate on any projects. I would be delighted to connect and hear from you.
+
+Tech Highlights: ☑ Java Script ☑ React JS ☑ Node.js ☑ HTML5 ☑ CSS3 ☑ Bootstrap ☑ SEO 
+
+For Instant Inquiry: ☑ Email: Kraj12631@gmail.com</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
