@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajiv</h1>
-<h3 align="center">I am Rajiv from India. Fullstack Developer .
+<h3 align="center">Frontend Developer | JavaScript | React JS | Node.js | Tailwind => Actively looking for React | Frontend Role | ✉️ DMs are always OPEN ✉️|
+
+  <h2>About Me</h2>
+  
+I am Rajiv from India. Front-End Developer with a background in Civil Engineering and teaching.
 
 I'm passionate about Building useful Internet products and fulfilling my love and passion for coding by building useful Internet products, Web apps, and Websites.
 
@@ -9,7 +13,7 @@ Experience with HTML5, CSS3, Javascript, React JS, Node.js, Tailwind, and Bootst
 
 Tech Highlights: ☑ Java Script ☑ React JS ☑ Node.js ☑ HTML5 ☑ CSS3 ☑ Bootstrap ☑ SEO 
 
-For Instant Inquiry: ☑ Email: Kraj12631@gmail.com</h3>
+For Instant Inquiry: ☑ Email: iamchonchol94@gmail.com ☑ skype: choncholkpi</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -17,7 +21,7 @@ For Instant Inquiry: ☑ Email: Kraj12631@gmail.com</h3>
 
 - 👨‍💻 All of my projects are available at [https://rajiv75.bio.link/](https://rajiv75.bio.link/)
 
-- 💬 Ask me about **React js,Css,Bootstrap**
+- 💬 Ask me about **React,Css,Bootstrap**
 
 - 📫 How to reach me **kraj12631@gmail.com**
 
