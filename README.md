@@ -80,7 +80,7 @@ I'm passionate about Building useful Internet products and fulfilling my love an
     <a href="https://github.com/rajiv75">
         <img src="https://komarev.com/ghpvc/?username=rajiv75&label=Profile%20views&color=0e75b6&style=flat" alt="rajiv75" />
     </a>
-    <a href="https://github.com/geekyshow1?tab=followers">
+    <a href="https://github.com/rajiv75?tab=followers">
         <img src="https://img.shields.io/github/followers/rajiv75?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
