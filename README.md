@@ -77,16 +77,16 @@ I'm passionate about Building useful Internet products and fulfilling my love an
  <h2><i>:star: My github Stats : </i></h2>
 <p>
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Rajiv-Panchal&theme=dark&background=000000" alt="rajiv75" height="139" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajiv-Panchal5&layout=compact&theme=vision-friendly-dark" alt="rajiv75" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajiv-Panchal&layout=compact&theme=vision-friendly-dark" alt="rajiv75" height="139" />
   </p>
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/rajiv75">
-        <img src="https://komarev.com/ghpvc/?username=rajiv75&label=Profile%20views&color=0e75b6&style=flat" alt="rajiv75" />
+    <a href="https://github.com/Rajiv-Panchal">
+        <img src="https://komarev.com/ghpvc/?username=Rajiv-Panchal&label=Profile%20views&color=0e75b6&style=flat" alt="rajiv75" />
     </a>
-    <a href="https://github.com/rajiv75?tab=followers">
-        <img src="https://img.shields.io/github/followers/rajiv75?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/Rajiv-Panchal?tab=followers">
+        <img src="https://img.shields.io/github/followers/Rajiv-Panchal?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 
