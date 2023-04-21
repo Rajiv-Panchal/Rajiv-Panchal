@@ -76,8 +76,8 @@ I'm passionate about Building useful Internet products and fulfilling my love an
 
  <h2><i>:star: My github Stats : </i></h2>
 <p>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=rajiv75&theme=dark&background=000000" alt="rajiv75" height="139" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajiv75&layout=compact&theme=vision-friendly-dark" alt="rajiv75" height="139" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Rajiv-Panchal&theme=dark&background=000000" alt="rajiv75" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajiv-Panchal5&layout=compact&theme=vision-friendly-dark" alt="rajiv75" height="139" />
   </p>
 <!----------------------------------- Profile View Section ------------------------------------>
 
