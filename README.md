@@ -11,7 +11,7 @@
 </div> -->
 <!-- <h2><i>About Me : </i></h2> -->
   
-<i>I am Rajiv from India. Fullstack Developer. </i>
+<i>I am Rajiv from India. </i>
 
 I'm passionate about Building useful Internet products and fulfilling my love and passion for coding by building useful Internet products, Web apps, and Websites.
 
